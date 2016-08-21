@@ -24,3 +24,15 @@
 .strike-through{
     text-decorarion: line-through;
 }
+.radio-group-element.first{
+    width: 15%;
+}
+.radio-group-element.second{
+    width: 15%;
+}
+.radio-group-element.third{
+    width: 15%;
+}
+.radio-group-element.fourth{
+    width: 15%;
+}
