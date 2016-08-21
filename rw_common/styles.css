@@ -1,0 +1,19 @@
+.contactus-form{
+    display: table;
+    width: 100%;
+}
+.contactus-form-row{
+    display: table-row;
+}
+.contactus-form-label{
+    display: table-cell;
+    width: 100px;
+    padding-bottom: 10px;
+    vertical-align: top;
+}
+.contactus-form-field{
+    display: table-cell;
+}
+.contactus-form INPUT[type=text], .contactus-form TEXTAREA{
+    border: 1px solid #ccc;
+}
