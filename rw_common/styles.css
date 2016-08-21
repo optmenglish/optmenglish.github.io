@@ -18,3 +18,9 @@
 .contactus-form INPUT[type=text], .contactus-form TEXTAREA{
     border: 1px solid #ccc;
 }
+.radio-group-element{
+    display: table-cell;
+}
+.strike-through{
+    text-decorarion: line-through;
+}
