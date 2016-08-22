@@ -25,14 +25,14 @@
     text-decorarion: line-through;
 }
 .radio-group-element.first{
-    width: 1%;
+    width: 20px;
 }
 .radio-group-element.second{
-    width: 10%;
+    width: 60px;
 }
 .radio-group-element.third{
     width: 20%;
 }
 .radio-group-element.fourth{
-    width: 69%;
+    
 }
