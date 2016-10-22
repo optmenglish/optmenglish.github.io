@@ -36,3 +36,9 @@
 .radio-group-element.fourth{
     
 }
+.center {
+    width: 100%;
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+}
